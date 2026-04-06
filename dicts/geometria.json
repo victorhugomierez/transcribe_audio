@@ -1,0 +1,8 @@
+{
+  "Figuras Planas": ["triángulo", "cuadrado", "rectángulo", "círculo", "polígono", "pentágono", "hexágono", "trapecio", "rombo"],
+  "Cuerpos Espaciales": ["esfera", "cubo", "cilindro", "cono", "pirámide", "prisma", "poliedro", "volumen"],
+  "Conceptos Métricos": ["área", "perímetro", "radio", "diámetro", "longitud", "superficie", "base", "altura", "apotema"],
+  "Ángulos y Líneas": ["segmento", "recta", "vértice", "ángulo agudo", "ángulo obtuso", "paralelas", "perpendiculares", "bisectriz"],
+  "Teoremas y Axiomas": ["pitágoras", "tales", "euclides", "trigonometría", "seno", "coseno", "tangente", "hipotenusa"],
+  "Geometría Analítica": ["coordenadas", "plano cartesiano", "abscisa", "ordenada", "vector", "recta", "parábola", "elipse"]
+}

@@ -1,0 +1,7 @@
+{
+    "Bypass": ["salto de seguridad", "evadir", "esquivar", "omitir", "saltar"],
+    "Reflected XSS": ["xss reflejado", "scripting reflejado", "inyección en la url"],
+    "Sensitive Data Exposure": ["exposición de datos", "datos sensibles", "filtración", "leak"],
+    "Privilege Escalation": ["escalada de privilegios", "elevar privilegios", "ser root", "ser administrador"],
+    "Input Sanitization": ["limpieza de entrada", "sanitizar", "filtrar caracteres"]
+}

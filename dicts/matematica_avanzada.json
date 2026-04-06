@@ -1,0 +1,10 @@
+{
+    "Limit and Continuity": ["límite", "tiende a", "continuidad", "discontinua", "infinitesimal", "asíntota"],
+    "Derivative / Differentiation": ["derivada", "razón de cambio", "recta tangente", "derivación", "regla de la cadena", "máximos y mínimos"],
+    "Integral Calculus": ["integral", "primitiva", "área bajo la curva", "antiderivada", "barrow", "integración por partes"],
+    "Linear Algebra": ["matriz", "determinante", "vector", "autovalor", "autovector", "espacio vectorial", "rango", "traspuesta"],
+    "Numerical Sets": ["reales", "complejos", "imaginarios", "racionales", "irracionales", "enteros", "naturales"],
+    "Function Analysis": ["dominio", "codominio", "imagen", "inyectiva", "sobreyectiva", "biyectiva", "concavidad", "inflexión"],
+    "Systems of Equations": ["gauss", "sustitución", "igualación", "sistema compatible", "incógnita", "solución única"],
+    "Sequences and Series": ["sucesión", "serie", "convergencia", "divergencia", "término general", "sumatoria"]
+}

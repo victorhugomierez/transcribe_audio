@@ -1,0 +1,34 @@
+# instruccion de instalacion 
+# Core AI & Processing
+openai-whisper
+setuptools-rust
+
+# Document Analysis (Nuevos)
+PyMuPDF
+python-docx
+python-magic
+
+# Utilities
+datetime
+
+Nota: Asegúrese de tener ffmpeg instalado en el sistema 
+(sudo apt install ffmpeg), ya que es una dependencia binaria 
+que no se gestiona vía pip.
+
+------------------------------------------------------------------
+## 🛠️ 1. Quick Setup (Instalación Automatizada)
+
+Para un despliegue rápido en entornos de auditoría o laboratorios académicos,
+ utilice el archivo de requerimientos.
+
+1. **Preparar el entorno:**
+   ```bash
+   python3 -m venv venv && source venv/bin/activate
+
+-------------------------------------------------------------------
+
+Instalación masiva de dependencias:
+Bash
+
+pip install -r requirements.txt
+

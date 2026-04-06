@@ -1,0 +1,7 @@
+{
+    "Gettier Problem": ["Justified True Belief", "JTB", "Counterexample", "Accidental Truth", "Epistemic Luck", "Internalism", "Externalism"],
+    "Correspondencia Semántica": ["Tarski", "Hechos", "Proposiciones", "Verdad como adecuación", "Realismo", "Antirrealismo", "Referente"],
+    "Criterios de Verdad": ["Evidencia", "Coherencia", "Consenso", "Pragmatismo", "Intuicionismo", "Verificabilidad", "Falsabilidad"],
+    "Ontología": ["Ente", "Esencia", "Existencia", "Categorías", "Substancia", "Accidente", "Ser en cuanto ser", "Realismo metafísico"],
+    "Lógica Proposicional": ["Premisas", "Conclusión", "Validez", "Solidez", "Falacia", "Silogismo", "Cálculo deductivo", "Tablas de verdad"]
+}

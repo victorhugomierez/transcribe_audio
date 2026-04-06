@@ -1,0 +1,5 @@
+# 1. Crear y activar el entorno
+python3 -m venv venv && source venv/bin/activate
+
+# 2. Instalar TODO con un solo comando
+pip install -r requirements.txt

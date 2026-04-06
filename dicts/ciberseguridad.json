@@ -1,0 +1,8 @@
+{
+    "Cross-Site Scripting (XSS)": ["Reflected", "Stored", "DOM-based", "Sanitization", "Encoding", "Polyglot", "Stealing Cookies", "Bypass"],
+    "Insecure CORS": ["Access-Control-Allow-Origin", "Wildcard", "Preflight Request", "Credentials", "Origin Reflection", "SOP Bypass"],
+    "Information Disclosure": ["Directory Listing", "Sensitive Files", "Source Code Leak", "Verbose Errors", ".env", ".git exposure", "Backup files"],
+    "Broken Authentication": ["Brute Force", "Session Hijacking", "IDOR", "JWT", "Insecure Cookie Flags", "MFA Bypass", "Credential Stuffing"],
+    "Remote Code Execution (RCE)": ["Reverse Shell", "Netcat", "Payload Delivery", "Command Injection", "Deserialization", "Privilege Escalation"],
+    "SQL Injection (SQLi)": ["Boolean-based", "Time-based", "Union-based", "Blind SQLi", "Database Schema", "DBMS", "Dump", "Input Validation"]
+}
