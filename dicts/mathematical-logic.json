@@ -1,0 +1,6 @@
+{
+  "Fundamentos Proposicionales": ["proposición", "proposiciones", "verdad", "verdadera", "valores", "ejemplo"],
+  "Estructuras Lógicas": ["función proposicional", "razonamiento", "implicación", "entonces", "tautología", "siguiente"],
+  "Análisis de Variables": ["variable", "determinar", "cuantificador", "valores de verdad"],
+  "Teoría de Números": ["número", "números", "enteros", "impares", "pares"]
+}
